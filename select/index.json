@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "働くオンナ(コーラス:いのうえあい)",
+  "base_artist": "どぶろっく",
+  "createdAt": "2026-03-24T03:38:09.028561Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "働くオンナ(コーラス:いのうえあい)",
+      "artist": "どぶろっく",
+      "has_synced": false,
+      "path": "select/pl_01_働くオンナ(コーラス_いのうえあい)_どぶろっく.txt"
+    }
+  ]
+}
